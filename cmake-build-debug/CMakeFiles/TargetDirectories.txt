@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/cpp-c-fundamentals/cmake-build-debug/CMakeFiles/cpp_c_fundamentals.dir
+C:/Users/User/CLionProjects/cpp-c-fundamentals/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/cpp-c-fundamentals/cmake-build-debug/CMakeFiles/rebuild_cache.dir
